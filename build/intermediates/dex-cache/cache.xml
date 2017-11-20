@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/fq/.android/build-cache/a8b079c6872f3cd855b6d880238f0204e8d825c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/fq/Desktop/Branter-master/app/build/intermediates/pre-dexed/debug/classes_f381b314422e166ae781667653442abf5cb405da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fq/.android/build-cache/539eea3fd47430474f643d419af682b9d9c71e3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/fq/Desktop/Branter-master/app/build/intermediates/pre-dexed/debug/classes_7b87eab0e62fb6435df33f2535be4e3432b97b39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fq/.android/build-cache/d85fd21f6acf214864f07fbf36f9f6d9afa41a37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/fq/Desktop/Branter-master/app/build/intermediates/pre-dexed/debug/classes_64c7009de4a0209887280d535d5e8a8bde93a563.jar" />
+    </item>
+
+</items>
